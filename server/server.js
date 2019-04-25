@@ -5,7 +5,7 @@ var boot = require('loopback-boot');
 //var port = (process.env.PORT || 3000)
 var app = module.exports = loopback();
 
-app.start = function() {
+app. = function() {
   // start the web server
   return app.listen(function() {
     app.emit('started');
