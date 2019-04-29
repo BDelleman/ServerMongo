@@ -1,4 +1,4 @@
 applications:
  - name: MongoDB01
-   route: https://happy-pinguin.eu-gb.mybluemix.net
+   routes: https://happy-pinguin.eu-gb.mybluemix.net
    memory: 256M
