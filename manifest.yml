@@ -1,4 +1,4 @@
 applications:
  - name: MongoDB01
-   random-route: true
+   domain: https://happy-pinguin.eu-gb.mybluemix.net
    memory: 256M
